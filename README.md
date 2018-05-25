@@ -2,7 +2,6 @@
 
 ## Currently in development
 
-### Install qBittorrent-nox (no GUI)
+### fork from https://github.com/Divi/qbittorrent-api-wrapper
 
-sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable
-https://github.com/qbittorrent/qBittorrent/wiki/Compiling-qBittorrent-on-Debian-and-Ubuntu
+### purpose: listing on packagist.org
